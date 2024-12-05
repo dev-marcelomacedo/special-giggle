@@ -1,0 +1,5 @@
+Teste de teste 123
+git remote add origin https://github.com/dev-marcelomacedo/special-giggle.git
+git branch -M main
+git push -u origin main
+Teste de teste 123
